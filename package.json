@@ -1,0 +1,21 @@
+{
+  "name": "starxminth-tea",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.js",
+  "homepage": "https://twitter.com/starxminth",
+  "repository": {
+    "url": "https://github.com/starxminth/starxminth-tea.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "starxminth"
+  ],
+  "author": "starxminth",
+  "license": "ISC",
+  "dependencies": {
+    "text-count": "^1.1.0"
+  }
+}
